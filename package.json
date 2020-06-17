@@ -2,7 +2,7 @@
 	"name": "ygopro-lua-tips",
 	"displayName": "ygopro-lua-tips",
 	"description": "a simple ygopro tips",
-	"version": "0.0.7",
+	"version": "1.0.0",
 	"publisher": "millux",
 	"engines": {
 		"vscode": "^1.46.0"
